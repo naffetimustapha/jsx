@@ -1,0 +1,21 @@
+h1{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    color: darkmagenta;
+}
+
+
+
+img{
+    border-radius: 50%;
+    width: 400px;
+    height: 480px;
+
+}
+p{
+    font-size: 45px;
+    color: whitesmoke;
+    height: 60px;
+
+}
